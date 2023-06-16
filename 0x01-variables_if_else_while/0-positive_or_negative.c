@@ -1,7 +1,9 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 /**
 * main -  A program assign a random number to the variable n.
-* Return: 0
+* Return: 0 (Success).
 */
 int main(void)
 {
